@@ -17,7 +17,7 @@ If you're using this code in a publication, please cite our papers.
   @inproceedings{ykim2017detector,
     title={DETECTOR WITH FOCUS: NORMALIZING GRADIENT IN IMAGE PYRAMID},
     author={Yonghyun Kim, Bongnam Kang and Daijin Kim},
-    booktitle={Image Processing (ICIP), 2014 IEEE International Conference on},
+    booktitle={IEEE International Conference on Image Processing (ICIP)},
     year={2017},
     organization={IEEE}
   }  
